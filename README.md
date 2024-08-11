@@ -5,3 +5,5 @@
   <img src="https://img.shields.io/github/last-commit/codebhc/Translation" alt="last commit"/><br>
 </p>
 <hr>
+##使用教程
+下载.py文件后运行即可。
